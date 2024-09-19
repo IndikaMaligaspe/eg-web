@@ -12,15 +12,14 @@ This is a React application that provides user authentication with sign-in and s
 - **Styling**: Uses `react-bootstrap` for styling components.
 
 ## Folder Structure
-
-- ├── API/ # Handles all API calls (login, register, etc.) 
-- ├── auth/ # Contains authenticated routes and route guards 
-- ├── components/ # Reusable common components and styled compo nents 
-- ├── context/ # React Context API (AuthContext for authentication) 
-- ├── hooks/ # Custom hooks for logic abstraction 
-- ├── pages/ # Feature pages like SignIn, SignUp, Dashboard, etc. 
-- ├── public/ # Public files (index.html, etc.) 
 - └── src/ 
+- - ├── API/ # Handles all API calls (login, register, etc.) 
+- - ├── auth/ # Contains authenticated routes and route guards 
+- - ├── components/ # Reusable common components and styled compo nents 
+- - ├── context/ # React Context API (AuthContext for authentication) 
+- - ├── hooks/ # Custom hooks for logic abstraction 
+- - ├── pages/ # Feature pages like SignIn, SignUp, Dashboard, etc. 
+- - ├── public/ # Public files (index.html, etc.) 
 - ├── App.js # Main entry point of the app └── index.js # Renders the app
 
 
