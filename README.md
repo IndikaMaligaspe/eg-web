@@ -44,7 +44,7 @@ This is a React application that provides user authentication with sign-in and s
 
    ```bash
    git clone https://github.com/your-username/react-jwt-auth.git
-   cd react-jwt-auth
+   cd reg-web
 
 2. Install dependancies
     ```bash
